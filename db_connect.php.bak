@@ -1,0 +1,4 @@
+<?php 
+
+$conn= new mysqli('localhost','id21597277_ihsanmokhsen','Namasayaihsan17@','id21597277_ekin')or die("Could not connect to mysql".mysqli_error($con));
+ 
